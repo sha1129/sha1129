@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on...not sure yet but open for learning
 - 📫 Reach me via LinkedIn
 
-<img align= left src= "https://github-readme-stats.vercel.app/api?username=sha1129&show_icons=true"/>
+<img align= left width ="37%" src= "https://github-readme-stats.vercel.app/api?username=sha1129&show_icons=true"/>
+
 <img align= left width ="37%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sha1129" />
 
 
